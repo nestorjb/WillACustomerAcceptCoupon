@@ -13,7 +13,7 @@ Investigating the Bar Coupons
 
 41% of drivers have accepted bar coupons.
 
-The chances the driver accepts the coupon increase under these conditions:
+The probability that the driver accepts or not the coupon is affected by the following conditions:
 
 1.- Drivers that have gone to a bar 3 or less time in a month are less likely to accept the coupon.
 
