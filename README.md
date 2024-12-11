@@ -38,7 +38,7 @@ For the Coffee House coupon we can reach the following conclusions based on the 
 
 5.- Driving at 10am.
 
-6.- The copupon expires in a day.
+6.- The coupon expires in a day.
 
 7.- Are below 21 years old.
 
@@ -50,7 +50,7 @@ For the Coffee House coupon we can reach the following conclusions based on the 
 
 11.- Work in Building & Grounds Cleaning & Maintenance or Healthcare Practitioners & Technical.
 
-12.- Earn less than $12500 or between $87500 and $99999.
+12.- Earn less than 12500 or between 87500 and 99999.
 
 13.- Frequent a bar 4 to 8 times.
 
@@ -58,18 +58,20 @@ For the Coffee House coupon we can reach the following conclusions based on the 
 
 15.- Orders carry out or take away more than 1 time.
 
-16.- Frequent restaurants ($20) more than 1 time.
+16.- Frequent restaurants (20) more than 1 time.
 
-17.- Frequent restaurants ($20-$50) more than 8 times.
+17.- Frequent restaurants (20-50) more than 8 times.
 
 18.- Coffee shop is 5 minutes in the same direction.
 
+Consider sending the Coffee House coupons to customer under these conditions.
 
-For the Restaurant (less than $20) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+
+For the Restaurant (less than 20) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
 
 1.- Not urgent to get to their destination.
 
-2.- With friend(s) or partner.
+2.- With friend(s).
 
 3.- Driving under sunny weather.
 
@@ -77,7 +79,7 @@ For the Restaurant (less than $20) coupon we can reach the following conclusions
 
 5.- Driving at 2pm or 6pm.
 
-6.- The copupon expires in a day.
+6.- The coupon expires in a day.
 
 7.- Are 46 years old.
 
@@ -87,7 +89,7 @@ For the Restaurant (less than $20) coupon we can reach the following conclusions
 
 10.- Work in Protective Service or Construction & Extraction.
 
-11.- Earn less between $50000 and $62499.
+11.- Earn less between 50000 and 62499.
 
 12.- Frequent a bar between 1 to 8 times.
 
@@ -95,11 +97,13 @@ For the Restaurant (less than $20) coupon we can reach the following conclusions
 
 14.- Never orders carry out or take away.
 
-15.- Frequent restaurants ($20) more than 8 times.
+15.- Frequent restaurants (20) more than 8 times.
 
-16.- Frequent restaurants ($20-$50) between 1 and 3 times.
+16.- Frequent restaurants (20-50) between 1 and 3 times.
 
 17.- Restaurant is 5 minutes in the opposite direction.
+
+Consider sending the Restaurant (less than 20) coupons to customer under these conditions.
 
 
 For the Carry out & Take away coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
@@ -114,38 +118,40 @@ For the Carry out & Take away coupon we can reach the following conclusions base
 
 5.- Driving at 2pm.
 
-6.- The copupon expires in a day.
+6.- The coupon expires in a day.
 
 7.- Are male.
 
-7.- Are abovr 50 years old.
+8.- Are above 50 years old.
 
-8.- Are widowed.
+9.- Are widowed.
 
 10.- Have some high school degree.
 
-11.- Work in Healthcare Practitioners & Technical.
+11.- Work in Building & Grounds Cleaning & Maintenance.
 
-12.- Earn less between $25000 and $37499.
+12.- Earn less between 25000 and 37499.
 
 13.- Frequent a bar 1 to 3 times.
 
-14.- Frequent a coffee shops between never to 8 times.
+14.- Never frequents a coffee shops.
 
 15.- Orders carry away more between 4 to 8 times.
 
-16.- Never frequents restaurants ($20).
+16.- Never frequents restaurants (20).
 
-17.- Frequent restaurants ($20-$50) between 4 to 8 times.
+17.- Frequent restaurants (20-50) between 4 to 8 times.
 
 18.- Carry out & Take away is 5 minutes in the opposite direction.
 
+Consider sending the Carry out & Take away coupons to customer under these conditions.
 
-For the Restaurant (between $20 and $50) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+
+For the Restaurant(between 20 and 50) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
 
 1.- Not urgent to get to their destination.
 
-2.- With partner.
+2.- Driving with partner.
 
 3.- Driving under sunny weather.
 
@@ -165,7 +171,7 @@ For the Restaurant (between $20 and $50) coupon we can reach the following concl
 
 11.- Work in Healthcare Support.
 
-12.- Earn less between $25000 and $37499.
+12.- Earn between 25000 and 37499.
 
 13.- Frequent a bar more than 8 times.
 
@@ -173,10 +179,12 @@ For the Restaurant (between $20 and $50) coupon we can reach the following concl
 
 15.- Orders carry out or take away more than 8 times.
 
-16.- Frequent restaurants ($20) more than 8 times.
+16.- Frequent restaurants (20) more than 8 times.
 
-17.- Frequent restaurants ($20-$50) more than 8 times.
+17.- Frequent restaurants (20-50) more than 8 times.
 
 18.- Restaurant is 5 minutes in the same direction.
+
+Consider sending the Restaurant(between 20 and 50) coupons to customer under these conditions.
 
 
