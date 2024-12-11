@@ -26,164 +26,164 @@ The probability that the driver accepts or not the coupon is affected by the fol
 
 Independent Investigation
 
-For the Coffee House coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+For the Coffee House coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions (in order of highest acceptance rate):
 
-1.- Not urgent to get to their destination.
+1.- Work in Building & Grounds Cleaning & Maintenance or Healthcare Practitioners & Technical with 73% acceptance rate.
 
-2.- With friend(s) or partner.
+2.- Are below 21 years old with 70% acceptance rate.
 
-3.- Driving under rainy or sunny weather.
+3.- Frequent a coffee shops 4 to 8 times with 69% acceptance rate.
 
-4.- Driving on temperature of 80.
+4.- Driving at 10am with 64% acceptance rate.
 
-5.- Driving at 10am.
+5.- Frequent restaurants (20-50) more than 8 times with 64% acceptance rate.
 
-6.- The coupon expires in a day.
+6.- Have some high school degree with 61% acceptance rate.
 
-7.- Are below 21 years old.
+7.- With friend(s) or partner with 60% acceptance rate.
 
-8.- Are divorced or single.
+8.- Frequent a bar 4 to 8 times with 59% acceptance rate.
 
-9.- Do not have children.
+9.- Not urgent to get to their destination with 58% acceptance rate.
 
-10.- Have some high school degree.
+10.- The coupon expires in a day with 58% acceptance rate.
 
-11.- Work in Building & Grounds Cleaning & Maintenance or Healthcare Practitioners & Technical.
+11.- Earn less than 12500 or between 87500 and 99999 with 54% acceptance rate.
 
-12.- Earn less than 12500 or between 87500 and 99999.
+12.- Driving on temperature of 80 with 53% acceptance rate.
 
-13.- Frequent a bar 4 to 8 times.
+13.- Coffee shop is 5 minutes in the same direction with 53% acceptance rate.
 
-14.- Frequent a coffee shops 4 to 8 times.
+14.- Are divorced or single with 52% acceptance rate.
 
-15.- Orders carry out or take away more than 1 time.
+15.- Do not have children with 51% acceptance rate.
 
-16.- Frequent restaurants (20) more than 1 time.
+16.- Frequent restaurants (20) more than 1 time with 51% acceptance rate.
 
-17.- Frequent restaurants (20-50) more than 8 times.
+17.- Driving under rainy or sunny weather with 50% acceptance rate.
 
-18.- Coffee shop is 5 minutes in the same direction.
+18.- Orders carry out or take away more than 1 time with 50% acceptance rate.
 
 Consider sending the Coffee House coupons to customer under these conditions.
 
 
-For the Restaurant (less than 20) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+For the Restaurant (less than 20) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions (in order of highest acceptance rate):
 
-1.- Not urgent to get to their destination.
+1.- Work in Protective Service or Construction & Extraction with 89% acceptance rate.
 
-2.- With friend(s).
+2.- The coupon expires in a day with 83% acceptance rate.
 
-3.- Driving under sunny weather.
+3.- Driving at 2pm or 6pm with 82% acceptance rate.
 
-4.- Driving on temperature of 80.
+4.- With friend(s) with 80% acceptance rate.
 
-5.- Driving at 2pm or 6pm.
+5.- Not urgent to get to their destination with 79% acceptance rate.
 
-6.- The coupon expires in a day.
+6.- Earn less between 50000 and 62499 with 78% acceptance rate.
 
-7.- Are 46 years old.
+7.- Driving under sunny weather with 77% acceptance rate.
 
-8.- Are single or have an unmarried partner.
+8.- Frequent a coffee shops 1 to 3 times with 77% acceptance rate.
 
-9.- Have some college degree.
+9.- Never orders carry out or take away with 76% acceptance rate.
 
-10.- Work in Protective Service or Construction & Extraction.
+10.- Frequent restaurants (20) more than 8 times with 76% acceptance rate.
 
-11.- Earn less between 50000 and 62499.
+11.- Driving on temperature of 80 with 76% acceptance rate.
 
-12.- Frequent a bar between 1 to 8 times.
+12.- Are 46 years old with 76% acceptance rate.
 
-13.- Frequent a coffee shops 1 to 3 times.
+13.- Frequent restaurants (20-50) between 1 and 3 times with 75% acceptance rate.
 
-14.- Never orders carry out or take away.
+14.- Have some college degree with 74% acceptance rate.
 
-15.- Frequent restaurants (20) more than 8 times.
+15.- Are single or have an unmarried partner with 73% acceptance rate.
 
-16.- Frequent restaurants (20-50) between 1 and 3 times.
+16.- Frequent a bar between 1 to 8 times with 73% acceptance rate.
 
-17.- Restaurant is 5 minutes in the opposite direction.
+17.- Restaurant is 5 minutes in the opposite direction with 72% acceptance rate.
 
 Consider sending the Restaurant (less than 20) coupons to customer under these conditions.
 
 
-For the Carry out & Take away coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+For the Carry out & Take away coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions (in order of highest acceptance rate):
 
-1.- Driving home.
+1.- Work in Building & Grounds Cleaning & Maintenance with 96% acceptance rate.
 
-2.- With friend(s).
+2.- Have some high school degree with 94% acceptance rate.
 
-3.- Driving under sunny weather.
+3.- Driving at 2pm with 87% acceptance rate.
 
-4.- Driving on temperature of 30.
+4.- Are widowed with 85% acceptance rate.
 
-5.- Driving at 2pm.
+5.- Never frequents restaurants (20) with 80% acceptance rate.
 
-6.- The coupon expires in a day.
+6.- Driving home with 79% acceptance rate.
 
-7.- Are male.
+7.- The coupon expires in a day with 78% acceptance rate.
 
-8.- Are above 50 years old.
+8.- Earn less between 25000 and 37499 with 78% acceptance rate.
 
-9.- Are widowed.
+9.- Are above 50 years old with 77% acceptance rate.
 
-10.- Have some high school degree.
+10.- With friend(s) with 76% acceptance rate.
 
-11.- Work in Building & Grounds Cleaning & Maintenance.
+11.- Driving under sunny weather with 76% acceptance rate.
 
-12.- Earn less between 25000 and 37499.
+12.- Driving on temperature of 30 with 76% acceptance rate.
 
-13.- Frequent a bar 1 to 3 times.
+13.- Are male with 76% acceptance rate.
 
-14.- Never frequents a coffee shops.
+14.- Never frequents a coffee shops with 76% acceptance rate.
 
-15.- Orders carry away more between 4 to 8 times.
+15.- Frequent a bar 0 to 3 times with 75% acceptance rate.
 
-16.- Never frequents restaurants (20).
+16.- Orders carry away more between 4 to 8 times with 75% acceptance rate.
 
-17.- Frequent restaurants (20-50) between 4 to 8 times.
+17.- Carry out & Take away is 5 minutes in the opposite direction with %75 acceptance rate.
 
-18.- Carry out & Take away is 5 minutes in the opposite direction.
+18.- Frequent restaurants (20-50) between 0 to 8 times with 74% acceptance rate.
 
 Consider sending the Carry out & Take away coupons to customer under these conditions.
 
 
-For the Restaurant(between 20 and 50) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions:
+For the Restaurant(between 20 and 50) coupon we can reach the following conclusions based on the ratios. The chances that the driver will use the coupon will increase under any of these conditions (in order of highest acceptance rate):
 
-1.- Not urgent to get to their destination.
+1.- Frequent restaurants (20-50) more than 8 times with 69% acceptance rate.
 
-2.- Driving with partner.
+2.- Work in Healthcare Support with 66% acceptance rate.
 
-3.- Driving under sunny weather.
+3.- Driving with partner with 63% acceptance rate.
 
-4.- Driving on temperature of 80.
+4.- Driving at 10am with 62% acceptance rate.
 
-5.- Driving at 10am.
+5.- Frequent a bar more than 8 times with 60% acceptance rate.
 
-6.- The copupon expires in a day.
+6.- Have some high school degree with 58% acceptance rate.
 
-7.- Are 26 or 46 years old.
+7.- Frequent a coffee shops 1 to 3 times with 55% acceptance rate.
 
-8.- Have an unmarried partner.
+8.- The copupon expires in a day with 52% acceptance rate.
 
-9.- Does not have children.
+9.- Frequent restaurants (20) more than 8 times with 52% acceptance rate.
 
-10.- Have some high school degree.
+10.- Earn between 25000 and 37499 with 51% acceptance rate.
 
-11.- Work in Healthcare Support.
+11.- Not urgent to get to their destination with 50% acceptance rate.
 
-12.- Earn between 25000 and 37499.
+12.- Are 26 or 46 years old with 49% acceptance rate.
 
-13.- Frequent a bar more than 8 times.
+13.- Have an unmarried partner with 49% acceptance rate.
 
-14.- Frequent a coffee shops 1 to 3 times.
+14.- Driving on temperature of 80 with 48% acceptance rate.
 
-15.- Orders carry out or take away more than 8 times.
+15.- Does not have children with 47% acceptance rate.
 
-16.- Frequent restaurants (20) more than 8 times.
+16.- Orders carry out or take away more than 8 times with 47% acceptance rate.
 
-17.- Frequent restaurants (20-50) more than 8 times.
+17.- Driving under sunny weather with 46% acceptance rate.
 
-18.- Restaurant is 5 minutes in the same direction.
+18.- Restaurant is 5 minutes in the same direction with 46% acceptance rate.
 
 Consider sending the Restaurant(between 20 and 50) coupons to customer under these conditions.
 
